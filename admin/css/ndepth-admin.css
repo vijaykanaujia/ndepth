@@ -1,0 +1,34 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+* 
+.modal-img {
+    width: 50px;
+}
+
+#ndepth-preview-image, .ndepth-preview-image {
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+#ndepth_browse_media{
+    height: fit-content;
+    margin: auto 0px;
+}
+
+.form-action-btn{
+    width:  20%;
+    margin-top:  10px!important;
+    text-align: center;
+}
+
+.back-btn{
+    background-color: #5b5d5e!important;
+    border-color: #5b5d5e!important;
+}
+
+.ndepth-parent{
+    width: 100%;
+}
